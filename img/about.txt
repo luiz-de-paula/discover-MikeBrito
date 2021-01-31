@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Smythe
+- Font Author: Copyright (c) 2011 by Vernon Adams. All rights reserved.
+- Font Source: http://fonts.gstatic.com/s/smythe/v11/MwQ3bhT01--coT1BOLh_uGInjA.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)
